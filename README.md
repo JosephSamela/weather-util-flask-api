@@ -1,6 +1,6 @@
 # weather-util-flask-api
 
-Get simple, light, human-readable, weather reports. Flask wrapper around [weather-util](http://fungi.yuggoth.org/weather/) application.
+Flask wrapper around [weather-util](http://fungi.yuggoth.org/weather/) that provides simple, light, human-readable, weather reports. 
 
 **simple** - No ads, no banners, no fancy interactive trackers. Visit `/your-zip-code` and get the weather report.
 
