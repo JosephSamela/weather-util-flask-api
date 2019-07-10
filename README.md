@@ -2,11 +2,11 @@
 
 Flask wrapper around [weather-util](http://fungi.yuggoth.org/weather/) that provides simple, light, human-readable, weather reports. 
 
-**simple** - No ads, no banners, no fancy interactive trackers. Visit `/your-zip-code` and get the weather report.
+* **simple** - No ads, no banners, no fancy interactive trackers. Visit `/your-zip-code` and get the weather report.
 
-**light** - no javascript, no css, no images, no icons, not even a favicon.
+* **light** - no javascript, no css, no images, no icons, not even a favicon.
 
-**human-readable** - No mind-numbing XML from this API. Simple easy to read plaintext reports designed for humans.
+* **human-readable** - No mind-numbing XML from this API. Simple easy to read plaintext reports designed for humans.
 
 ## Setup
 
